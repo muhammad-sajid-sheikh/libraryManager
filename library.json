@@ -1,0 +1,50 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": "1960",
+        "genre": "Fiction",
+        "read_status": true,
+        "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "publication_year": "1949",
+        "genre": "Dystopian",
+        "read_status": false,
+        "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publication_year": "1813",
+        "genre": "Romance",
+        "read_status": true,
+        "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": "1925",
+        "genre": "Classic",
+        "read_status": false,
+        "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publication_year": "1988",
+        "genre": "Adventure",
+        "read_status": false,
+        "added_date": "2025-03-11 11:36:40"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "publication_year": "1997",
+        "genre": "Fantasy",
+        "read_status": true,
+        "added_date": "2025-03-11 11:36:40"
+    }
+]
